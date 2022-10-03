@@ -4,28 +4,28 @@
 }
 .up_scr{
     height: 70vh;
-    background-image: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(tesla_in.jpg);
+    background-image: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(img/tesla_in.jpg);
     background: cover;
     background-size: cover;
     background-position: 50% 20%;
 }
 .up_scrm3{
     height: 70vh;
-    background-image: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(model3in.jpg);
+    background-image: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(img/model3in.jpg);
     background: cover;
     background-size: cover;
     background-position: 50% 20%;
 }
 .up_scrmx {
     height: 70vh;
-    background-image: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(modelxin.jpg);
+    background-image: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(img/modelxin.jpg);
     background: cover;
     background-size: cover;
     background-position: 50% 20%;
 }
 .up_scrmy {
     height: 70vh;
-    background-image: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(modelyin.jpg);
+    background-image: radial-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(img/modelyin.jpg);
     background: cover;
     background-size: cover;
     background-position: 50% 20%;

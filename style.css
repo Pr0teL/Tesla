@@ -5,7 +5,7 @@ body {
     font-family: 'Lato', sans-serif;
 }
 .scr_1{
-    background: url(bg_main.jpg);
+    background: url(img/bg_main.jpg);
     background-size: cover;
     background-size: 200%;
     background-position: 50% 57%;
